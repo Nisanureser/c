@@ -1,0 +1,10 @@
+-push_back() = Vectorün sonuna eleman ekler.
+-pop_back() = Vectorden son elemanı çıkarır/siler.
+-empty() = Vectorün boş olup olmadığını belirleyen bir bool durum döndürür.
+-insert() = Belirtilen bir pozisyona yeni eleman ekler.
+-erase() = Belirtilen bir elemanı vectorden siler.
+-resize() = Vectorün boyutunu değiştirir.
+-clear() = Vectordeki tüm elemanları siler.
+-size() = Vectordeki eleman sayısını belirtilen bir değer döndürür.
+-capacity() = Vectorün mevcut kapasitesini belirten bir değer döndürür.
+-assign() = Vecktore yeni değerler atamak için kullanılır. En temel haliyle iki
